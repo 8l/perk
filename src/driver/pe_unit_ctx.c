@@ -1,3 +1,9 @@
+/***************************************************************/
+/*  perk: PE Resource Kit                                      */
+/*  Copyright (C) 2015--2016  Z. Gilboa                        */
+/*  Released under the Standard MIT License; see COPYING.PERK. */
+/***************************************************************/
+
 #include <stdint.h>
 #include <stddef.h>
 #include <stdlib.h>
